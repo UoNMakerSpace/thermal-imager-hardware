@@ -1,4 +1,4 @@
-# thermo-imager-hardware
+# thermal-imager-hardware
 
 3D printer files in *.stl format to suport the Thermal Imager plant phenotyping robot project at the University of Nottingham.
 
